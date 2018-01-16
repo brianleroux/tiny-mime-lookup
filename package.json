@@ -1,0 +1,22 @@
+{
+  "name": "tiny-mime-lookup",
+  "version": "1.0.0",
+  "description": "Lookup a MIME type from a file name or path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianleroux/tiny-mime-lookup.git"
+  },
+  "keywords": [
+    "mime"
+  ],
+  "author": "Brian LeRoux <b@brian.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/brianleroux/tiny-mime-lookup/issues"
+  },
+  "homepage": "https://github.com/brianleroux/tiny-mime-lookup#readme"
+}
